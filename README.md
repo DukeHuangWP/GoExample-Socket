@@ -1,10 +1,5 @@
 A golang socket example(server and clinet)
 
-## Install
-```
-go get github.com/gorilla/websocket
-```
-
 ## File Tree
 ```
 ├─Server
